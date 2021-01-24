@@ -1,0 +1,14 @@
+Molttry;10000030
+Noname;102
+WowMan;105
+Razor;110
+Waf;75
+Luke;65
+Rol;20
+Kal;10
+Like;0
+HighScore;20
+Give;0
+Me;10
+High;20
+Score;30
